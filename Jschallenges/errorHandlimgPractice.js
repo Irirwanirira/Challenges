@@ -41,13 +41,7 @@ function family(arr){
     })
 }
 
-// family(fam)
-//     .then((result)=> {
-//         console.log(result);
-//     })
-//     .catch((error)=> {
-//         console.log(error);
-//     })
+
 
 const familyAPI =  async()=>{
 try {
