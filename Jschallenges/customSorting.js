@@ -32,5 +32,4 @@ function customSort(){
     return array;
 }
 
-console.log(customSort(array));
 
